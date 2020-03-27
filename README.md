@@ -16,3 +16,21 @@ https://console.cloud.google.com/apis/credentials/serviceaccountkey?_ga=2.457202
 to run terraform 
 
 It will have ansible script to deploy python package and start the app om VM 
+
+## Run Locally 
+To Run this appilcation python needs to be installed. This application is written for python 2.X
+### step 1
+install python and install pip
+
+Eg. `brew install python`
+
+To install pip need to copy get_pip.py file from internet and run it.
+
+### step 2
+install virtualenv
+
+Eg. `brew install virtualenv`
+### step 3
+install virtualenvwrapper
+
+Eg. `brew install virtualenvwrapper`
