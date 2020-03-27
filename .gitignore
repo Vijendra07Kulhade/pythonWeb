@@ -1,0 +1,5 @@
+.terraform
+venv
+flask-app-5f11330fb51b.json
+terraform.*
+.idea/
